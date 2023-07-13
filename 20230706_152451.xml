@@ -1,0 +1,26 @@
+<annotation>
+	<folder>All</folder>
+	<filename>20230706_152451.jpg</filename>
+	<path>C:\Users\lenovo\Desktop\Images\All\20230706_152451.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3120</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thread</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>689</xmin>
+			<ymin>1366</ymin>
+			<xmax>1180</xmax>
+			<ymax>1757</ymax>
+		</bndbox>
+	</object>
+</annotation>

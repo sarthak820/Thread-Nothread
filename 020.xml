@@ -1,0 +1,38 @@
+<annotation>
+	<folder>All</folder>
+	<filename>020.jpg</filename>
+	<path>C:\Users\lenovo\Desktop\Images\All\020.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No thread</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>84</ymin>
+			<xmax>96</xmax>
+			<ymax>113</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>No thread</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>88</ymin>
+			<xmax>166</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>All</folder>
+	<filename>washers6.jpg</filename>
+	<path>C:\Users\lenovo\Desktop\Images\All\washers6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>100</width>
+		<height>100</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No thread</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>29</ymin>
+			<xmax>76</xmax>
+			<ymax>55</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>No thread</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>51</ymin>
+			<xmax>66</xmax>
+			<ymax>80</ymax>
+		</bndbox>
+	</object>
+</annotation>

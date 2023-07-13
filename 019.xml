@@ -1,0 +1,38 @@
+<annotation>
+	<folder>All</folder>
+	<filename>019.jpg</filename>
+	<path>C:\Users\lenovo\Desktop\Images\All\019.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>185</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No thread</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>90</ymin>
+			<xmax>120</xmax>
+			<ymax>118</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>No thread</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>50</ymin>
+			<xmax>185</xmax>
+			<ymax>64</ymax>
+		</bndbox>
+	</object>
+</annotation>

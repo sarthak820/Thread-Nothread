@@ -1,0 +1,26 @@
+<annotation>
+	<folder>All</folder>
+	<filename>image30.jpg</filename>
+	<path>C:\Users\lenovo\Desktop\Images\All\image30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>100</width>
+		<height>100</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thread</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>38</ymin>
+			<xmax>48</xmax>
+			<ymax>92</ymax>
+		</bndbox>
+	</object>
+</annotation>
